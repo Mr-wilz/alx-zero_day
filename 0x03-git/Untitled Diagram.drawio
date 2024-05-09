@@ -1,18 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T12:20:25.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8e2RH_9yqZMrd6PFiwzt" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T12:25:01.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="p72mt3Rh48Yf2WGK8dFa" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1674" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="faOE6TDyo1h8S2b4mFLX-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180331/zyq/kisspng-laptop-tablet-computers-mobile-phones-clip-art-computer-vector-5ac05899267f35.6604116215225550331577.jpg;clipPath=inset(32.33% 9.56% 33.33% 10%);" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="53.03" y="525" width="149.37" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="faOE6TDyo1h8S2b4mFLX-4" value="USER&#39;S DEVICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="19.99" y="610" width="190" height="50" as="geometry" />
+        <mxCell id="faOE6TDyo1h8S2b4mFLX-2" value="USER DEVICE: query" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180331/zyq/kisspng-laptop-tablet-computers-mobile-phones-clip-art-computer-vector-5ac05899267f35.6604116215225550331577.jpg;clipPath=inset(32.33% 9.56% 33.33% 10%);fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="520" width="149.37" height="85" as="geometry" />
         </mxCell>
         <mxCell id="faOE6TDyo1h8S2b4mFLX-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="114.17" y="525" as="sourcePoint" />
+            <mxPoint x="114" y="510" as="sourcePoint" />
             <mxPoint x="114.34000000000002" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -23,7 +20,7 @@
           <mxGeometry x="110" y="435" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="faOE6TDyo1h8S2b4mFLX-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/671/422/png-transparent-black-server-illustration-server-microsoft-powerpoint-server-computer-network-electronics-computer-thumbnail.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.89" y="240" width="84.22" height="113" as="geometry" />
+          <mxGeometry x="80.34" y="260" width="69.31" height="93" as="geometry" />
         </mxCell>
         <mxCell id="faOE6TDyo1h8S2b4mFLX-12" value="DNS SERVER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="210" width="130" height="30" as="geometry" />
@@ -47,7 +44,7 @@
         <mxCell id="faOE6TDyo1h8S2b4mFLX-15" value="FIREWALL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202.4" y="180" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="faOE6TDyo1h8S2b4mFLX-25" value="WEB SERVER&#xa;(SERVES CLIEN&quot;TS SIDE CODE)" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/842/328/png-transparent-black-and-gray-computer-illustration-computer-monitor-drawing-cartoon-cartoon-computer-cartoon-character-blue-png-graphics-thumbnail.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="faOE6TDyo1h8S2b4mFLX-25" value="WEB SERVER&#xa;(SERVES CLIEN&quot;TS SIDE CODE)" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/842/328/png-transparent-black-and-gray-computer-illustration-computer-monitor-drawing-cartoon-cartoon-computer-cartoon-character-blue-png-graphics-thumbnail.png;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="260" width="97.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="faOE6TDyo1h8S2b4mFLX-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -74,14 +71,14 @@
             <mxPoint x="620" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="faOE6TDyo1h8S2b4mFLX-33" value="user web browser&#xa;data received " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180331/zyq/kisspng-laptop-tablet-computers-mobile-phones-clip-art-computer-vector-5ac05899267f35.6604116215225550331577.jpg;clipPath=inset(32.33% 9.56% 33.33% 10%);" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="faOE6TDyo1h8S2b4mFLX-33" value="user web browser&#xa;data received " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180331/zyq/kisspng-laptop-tablet-computers-mobile-phones-clip-art-computer-vector-5ac05899267f35.6604116215225550331577.jpg;clipPath=inset(32.33% 9.56% 33.33% 10%);fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="554" y="440" width="149.37" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="faOE6TDyo1h8S2b4mFLX-37" value="&lt;b&gt;&lt;i&gt;weather data&lt;br&gt;packets&lt;/i&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="faOE6TDyo1h8S2b4mFLX-37" value="&lt;i style=&quot;&quot;&gt;&lt;b&gt;Weather data&lt;br&gt;packets&lt;/b&gt;&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="617" y="350" width="153" height="60" as="geometry" />
         </mxCell>
         <mxCell id="faOE6TDyo1h8S2b4mFLX-38" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="254" width="50" height="37" as="geometry" />
+          <mxGeometry x="220" y="260" width="27.03" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
